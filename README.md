@@ -1,10 +1,8 @@
 # 🌐 Fabric-EMQX-IoT-Gateway  
 > Secure IoT Device Authentication & Data Transmission using **Hyperledger Fabric CA** + **EMQX Broker** + **AES Encryption**
 
-[![GitHub stars](https://img.shields.io/github/stars/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway)](https://github.com/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway)](https://github.com/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway/issues)
 [![Last commit](https://img.shields.io/github/last-commit/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway)](https://github.com/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway/commits/main)
-[![License](https://img.shields.io/github/license/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway)]([LICENSE](https://github.com/IoT-Security-Using-Blockchain/Fabric-EMQX-IoT-Gateway/blob/main/LICENSE))
 
 ---
 
