@@ -24,8 +24,9 @@ Fabric-EMQX-IoT-Gateway/
 │── node-cli/                  # Node.js CLI for Fabric CA
 │   ├── registerDevice.js       # Register device & add to wallet
 │   ├── server.js       # Run the server to add data to Ledger
-│   ├── admin.id        # if other than admin other registered will be listed here
     ├── README.md
+|── wallet/
+    |── admin.id             # other than admin there're will be other id registered
 │
 │── README.md                  # 📌 Project readme
 │── LICENSE
