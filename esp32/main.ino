@@ -20,13 +20,13 @@ limitations under the License.*/
 #include "mbedtls/base64.h"
 
 // ---------- WiFi / MQTT ----------
-const char* ssid = "Electron";
-const char* password = "password bol";
+const char* ssid = "YOUR_WIFI_ID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
-const char* mqtt_server = "192.168.0.104";
+const char* mqtt_server = "MQTT_BROKER_IP";
 const int mqtt_port = 1883;
-const char* mqtt_user = "esp32";
-const char* mqtt_password = "esp32pw";
+const char* mqtt_user = "REGISTERED_ID_IN_WALLET";
+const char* mqtt_password = "REGISTERED_PASSWORD_FOR_THE_ID";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
